@@ -1,3 +1,8 @@
+Resources
+
+- Google Drive: https://drive.google.com/drive/u/0/folders/1ZmbOHw8-J75qwxloxM5QFemYlVeS_pFm
+- Figma: https://www.figma.com/files/project/23425365/Team-project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
